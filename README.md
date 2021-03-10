@@ -1,4 +1,4 @@
-# hangmaninpython
+# Hangman in Python
 
 #Establish the data set for the computer's dictionary
 #better to import but not using online libraries for now as they can disappear or be moved
